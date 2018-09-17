@@ -1,0 +1,24 @@
+_repo: Memoirs-of-the-Revolution-in-Bengal-Anno-Dom-1757_52518
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watts, William, active 1737-1758
+    gutenberg_agent_id: '46907'
+    url: http://www.gutenberg.org/2009/agents/46907
+description: ''
+gutenberg_issued: '2016-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plassey, Battle of, Palashi, India, 1757'
+- !lcc 'DS'
+- !lcsh 'India -- History -- 1526-1765'
+- !lcsh 'East India Company -- History'
+- GITenberg
+title: Memoirs of the Revolution in Bengal, Anno Dom. 1757
+url: http://www.gutenberg.org/ebooks/52518
