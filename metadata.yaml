@@ -1,11 +1,16 @@
 _repo: Memoirs-of-the-Revolution-in-Bengal-Anno-Dom-1757_52518
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52518-h/images/cover.jpg
 creator:
   author:
     agent_name: Watts, William, active 1737-1758
     gutenberg_agent_id: '46907'
     url: http://www.gutenberg.org/2009/agents/46907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52518#Memoirs-of-the-Revolution-in-Bengal-Anno-Dom-1757
 gutenberg_issued: '2016-07-07'
 gutenberg_type: Text
 identifiers:
